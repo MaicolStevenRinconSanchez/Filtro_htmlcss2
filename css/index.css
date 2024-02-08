@@ -483,6 +483,7 @@ main .card .progress {
 	position: relative;
 	margin-bottom: 4px;
 }
+
 main .card .progress::before {
 	content: '';
 	position: absolute;

@@ -14,7 +14,6 @@ allDropdown.forEach(item=> {
 				i.classList.remove('show');
 			})
 		}
-
 		this.classList.toggle('active');
 		item.classList.toggle('show');
 	})
