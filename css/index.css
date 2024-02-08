@@ -374,6 +374,83 @@ main .info-data .card {
 	width: 90%;
 	
 } 
+.buso2{	
+	
+	display: flex;
+	justify-content: center;
+	width: 90%;
+	
+} 
+.buso3{	
+	
+	display: flex;
+	justify-content: center;
+	width: 90%;
+	
+} 
+.buso4{	
+	
+	display: flex;
+	justify-content: center;
+	width: 142%;
+	
+} 
+.camisa1{	
+	
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	
+} 
+.camisa2{	
+	
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	
+} 
+.camisa3{	
+	
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	
+} 
+.camisa4{	
+	
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	
+} 
+.pantalon1{	
+	
+	display: flex;
+	justify-content: center;
+	width: 70%;
+	
+} 
+.pantalon2{	
+	
+	display: flex;
+	justify-content: center;
+	width: 88%;
+	
+} 
+.pantalon3{	
+	
+	display: flex;
+	justify-content: center;
+	width: 137%;
+	
+} 
+.pantalon4{	
+	
+	display: flex;
+	justify-content: center;
+	width: 133%;
+	
+} 
 main .card .head {
 	display: flex;
 	justify-content: space-between;
@@ -386,7 +463,7 @@ main .card .head h2 {
 	font-weight: 600;
 }
 main .card .head p {
-	font-size: 14px;
+	font-size: 20px;
 }
 main .card .head .icon {
 	font-size: 20px;

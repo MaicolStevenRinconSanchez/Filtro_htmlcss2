@@ -48,5 +48,67 @@
     background-color: var(--clr-main);
     color: var(--clr-white);
 }
+.imagen{
+    display: flex;
+    display: flex;
+    background-color: white;
+    padding: 1rem;
+    margin: 1rem;
+    
 
+}
+.camisa-1{  
+    width: 10%;
 
+}
+.Name{  
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    
+
+}
+.point{ 
+    width: 100%;
+    justify-content: center;
+}
+.cantidad   {
+    display: flex;
+    width: 25%;
+    justify-content: center;
+}
+.producto-agregar-1{  
+    display: flex;
+    width: 25%;
+    justify-content: center;
+}
+.subtotal{  
+    display: flex;
+    justify-content: center;
+    width: 25%;
+}
+
+.n{
+    font-size: 70px;
+    width: 100%;
+    
+}
+main.info-datas {
+    margin-top: 36px;
+    display: grid;
+    grid-gap: 20px;
+    
+}   
+.o{ 
+    width: 40%;
+    
+        width: 40%;
+        display: flex;
+        justify-content: end;
+      
+}
+main .card .head p {
+    font-size: 20px;
+    display: flex;
+    justify-content: end;
+  }
